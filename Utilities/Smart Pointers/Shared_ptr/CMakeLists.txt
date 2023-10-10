@@ -1,0 +1,1 @@
+add_executable(sharedptr1 sharedptr1.cpp)
